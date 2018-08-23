@@ -1,0 +1,9 @@
+The following packages were used in this project:
+
+1. sys
+2. termios
+3. tty
+4. os
+5. signal
+6. time
+7. I used aplay too although its part of os
