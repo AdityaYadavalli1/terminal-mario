@@ -1,4 +1,4 @@
-# SSAD Assignment - 1
+# Mario
 Written by Aditya Yadavalli
 
 ## To run the game, enter the following command:
